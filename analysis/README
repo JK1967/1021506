@@ -2,3 +2,13 @@ The folder contains the r code for the analysis.
 Both the files with the functions as well as the actual the files for the actual analysis are included. 
 
 All files run independently. 
+
+The files included are:
+
+  - analysis_des (for chapter 4)
+  - analysis_dyad (dyad ratios in chapter 4)
+  - analysis_nl (the analysis for the Dutch, chapter 7)
+  - analysis_bs (for the oberservational chapter, 5)
+  - analysis_rdd (for the RDD, chapter 6)
+  - rrp_rdd_functions_vme (the functions for the RDD. Copied from Chadi \& Krause 2018).
+  - stimson (the functions for the Dyad ratios, from James Stimson's website). 
