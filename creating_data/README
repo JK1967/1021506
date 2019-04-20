@@ -3,7 +3,10 @@ This folder contains:
 The files to create the database and the created database.
 
 In order to create the database one needs to use the data provided in the other input folder. 
-Furthermore, the files need to be run in a specific
-order: first the EES positions and then the party positions. 
-This creates the master_file, used for the descriptive, NL, and analysis chapter.
-The file for the RDD is created in the analysis file.
+Furthermore, the files need to be run in a specific order: 
+
+- First the EES positions.
+- Then the party positions. 
+
+Doing this creates the master_file, used for the descriptive, NL, and analysis chapter.
+The file for the RDD is created in the analysis_rdd file itself. 
