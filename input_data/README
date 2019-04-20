@@ -1,0 +1,8 @@
+This folder contains the input data in the respective sub folders. 
+Input data is the data needed to create the datafiles used in the analysis.
+
+
+The 'other' folder contains all the other expert surveys, as well as the Chadi & Krause files used as running variable
+in the RDD. 
+
+The CMP data is downloaded via the manifestor package in the analyses
