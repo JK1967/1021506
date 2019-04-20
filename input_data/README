@@ -1,4 +1,7 @@
 This folder contains the input data in the respective sub folders. 
+The data files unfortunately have very akward names. I chose to keep them that way
+because that is how one downloads them. This way it is clearer what the specific versions are
+and the reader can find them herself on the websites of the repositories. 
 Input data is the data needed to create the datafiles used in the analysis.
 
 
