@@ -12,3 +12,7 @@ The files included are:
   - analysis_rdd (for the RDD, chapter 6)
   - rrp_rdd_functions_vme (the functions for the RDD. Copied from Chadi \& Krause 2018).
   - stimson (the functions for the Dyad ratios, from James Stimson's website). 
+
+
+Besides the dyad ratios, for chapters 4, 5, and 7 the master_file is all that is needed because the CMP data is loaded via a package. 
+For chapter 6, rrp_rdd.tab is also required. 
